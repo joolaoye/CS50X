@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: It took longer to sort the disorganized files, but quickly went through the sorted files, it depends on the arrangement.
+
+sort2 uses: Merge set
+
+How do you know?: The speed at which it sorted each files of the same size but with varying randomness was slightly the same.
+
+sort3 uses: Selection sort
+How do you know?: It's much slower than sort2, but it takes slightly the same amount of time to sort files of the same size
+but with different randomess.
+
